@@ -37,11 +37,11 @@ section{
 }
 .button{
     text-decoration: none;
-    background-image: linear-gradient(#18d46d, orange);
+    background-image: linear-gradient(#074c55, rgb(120, 201, 99));
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
-    font-weight: 600;
+    font-weight: 550;
 }
 .text-color{
     color:mediumseagreen;
