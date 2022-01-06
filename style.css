@@ -57,7 +57,7 @@ section{
     width: 30%;
 }
 .to-do p{
-    padding: 0px 10px;
+    padding: 0px 10px 25px 10px;
 }
 
 .color1{
@@ -70,7 +70,7 @@ section{
     border-radius: 15px;
     background-color: rgb(149, 250, 245);
     width: 500px;
-    height: 300px;
+    height: 350px;
     margin-top: 0%;
     margin-left: 100px;
     margin-right: 20px;
@@ -80,7 +80,7 @@ section{
     border-radius: 15px;
     background-color: rgb(238, 204, 159);
     width: 500px;
-    height: 300px;
+    height: 350px;
     margin-top: 0%;
     margin-right: 20px;
 }
@@ -88,7 +88,7 @@ section{
     border-radius: 15px;
     background-color: rgb(173, 159, 129);
     width: 500px;
-    height: 300px;
+    height: 350px;
     margin-top: 0%;
     margin-right: 100px;
 }
@@ -136,7 +136,7 @@ section{
 }
 .bonous img{
     width: 70%;
-    height: 400px;
+    height: 450px;
     border-radius: 25px;
 }
 #hero{
