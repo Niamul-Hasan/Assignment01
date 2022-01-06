@@ -41,7 +41,7 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
-    font-weight: 700;
+    font-weight: 600;
 }
 .text-color{
     color:mediumseagreen;
@@ -129,6 +129,28 @@ section{
     background-image: url(images/illustrators/shape-5.png);
     background-repeat: no-repeat;
     background-size: 300px;
+}
+.bonous h2{
+    font-size: 40px;
+    text-align: center;
+}
+.bonous img{
+    width: 70%;
+    height: 400px;
+    border-radius: 25px;
+}
+#hero{
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#man-kind h2{
+    text-align: left;
+    font-size: 40px;
+}
+#man-kind{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 100px;
 }
 footer{
     background-color: black;
