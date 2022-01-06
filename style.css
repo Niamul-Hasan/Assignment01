@@ -30,8 +30,10 @@ section{
     margin: 100px;
 
 }
-.half-width img{
+.top-pic img{
     width: 85%;
+    border-radius: 50px;
+    
 }
 .button{
     text-decoration: none;
@@ -66,7 +68,7 @@ section{
 }
 #left-div{
     border-radius: 15px;
-    background-color: red;
+    background-color: rgb(149, 250, 245);
     width: 500px;
     height: 300px;
     margin-top: 0%;
@@ -74,24 +76,75 @@ section{
     margin-right: 20px;
     
 }
-
-
-
 #middle-div{
     border-radius: 15px;
-    background-color: green;
+    background-color: rgb(238, 204, 159);
     width: 500px;
     height: 300px;
     margin-top: 0%;
     margin-right: 20px;
 }
-
-
 #right-div{
     border-radius: 15px;
-    background-color: orange;
+    background-color: rgb(173, 159, 129);
     width: 500px;
     height: 300px;
     margin-top: 0%;
     margin-right: 100px;
+}
+
+.hard-work{
+    background-image: url(images/illustrators/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: left;
+}
+ .hard-work img{
+     width: 70%;
+     margin-right: 0px;
+     margin-left: 100px;
+     margin-top: 0px;
+     border-radius: 15px;
+ }
+ .hard-work h2{
+     font-size: 40px;
+     margin: 0px;
+ }
+ #main-key{
+    margin-left: 0px;
+    margin-right: 100px;
+    padding-left: 0px;
+}
+.share h2{
+    font-size: 40px;
+}
+.share img{
+    margin-right: 100px;
+    margin-top: 80px;
+    border-radius: 25px;
+
+}
+.share{
+    background-position: right;
+    background-image: url(images/illustrators/shape-5.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+footer{
+    background-color: black;
+    padding: 0px;
+    color:blanchedalmond;
+}
+footer h3{
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+    font-family: 'Moon Dance', cursive;
+}
+footer p{
+    text-align: center;
+    font-family: cursive;
+}
+#foot{
+    color: brown;
 }
