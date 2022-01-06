@@ -154,7 +154,7 @@ section{
 }
 footer{
     background-color: black;
-    padding: 0px;
+    padding-top: 30px;
     color:blanchedalmond;
 }
 footer h3{
@@ -166,6 +166,7 @@ footer h3{
 footer p{
     text-align: center;
     font-family: cursive;
+    padding-top: 0px;
 }
 #foot{
     color: brown;
